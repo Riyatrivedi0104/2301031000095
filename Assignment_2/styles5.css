@@ -1,0 +1,13 @@
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.website4-1 {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
